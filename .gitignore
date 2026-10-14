@@ -1,0 +1,29 @@
+# ===== Maven =====
+# Carpeta donde Maven deja las clases compiladas y el .jar generado
+target/
+
+# ===== Librerias manuales =====
+# El driver de MySQL ahora lo descarga Maven (ver pom.xml)
+lib/
+*.jar
+
+# ===== IntelliJ IDEA =====
+.idea/
+*.iml
+out/
+
+# ===== NetBeans (por si se abre el proyecto alli) =====
+nbproject/private/
+build/
+dist/
+
+# ===== Archivos compilados =====
+*.class
+
+# ===== Sistema operativo =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Logs =====
+*.log
