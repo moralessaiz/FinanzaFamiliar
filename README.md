@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💰 FinanzaFamiliar
+# 💰 FinanzaFamiliarBackend
 
 ### Sistema de Contabilidad Familiar — Backend Java + JDBC + MySQL
 
@@ -14,7 +14,6 @@ Módulos de **Usuarios** y **Movimientos** (ingresos y gastos del hogar) con las
 ![NetBeans](https://img.shields.io/badge/NetBeans-compatible-1B6AC6?logo=apachenetbeanside&logoColor=white)
 
 **SENA · Tecnólogo en Análisis y Desarrollo de Software (ADSO) · Ficha 3336193**
-Evidencia `GA7-220501096-AA2-EV01` — Codificación de módulos del software
 
 </div>
 
@@ -77,8 +76,8 @@ Instala lo siguiente **antes de empezar**:
 Abre una terminal (Git Bash, PowerShell o CMD) en la carpeta donde quieras guardar el proyecto y ejecuta:
 
 ```bash
-git clone https://github.com/moralessaiz/FinanzaFamiliar.git
-cd FinanzaFamiliar
+git clone https://github.com/moralessaiz/FinanzaFamiliarBackend.git 
+cd FinanzaFamiliarBackend
 ```
 
 > 💡 También puedes descargarlo como ZIP desde GitHub: botón verde **Code → Download ZIP**, y descomprimirlo.
