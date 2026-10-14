@@ -18,6 +18,8 @@
         <maven.compiler.release>17</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <!-- Clase principal: la usan NetBeans (Run Project) y "mvn exec:java" -->
+        <exec.mainClass>com.finanzafamiliar.contabilidad.app.Main</exec.mainClass>
     </properties>
 
     <dependencies>
